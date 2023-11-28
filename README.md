@@ -2,7 +2,7 @@
 
 <a href="https://www.buymeacoffee.com/mezantrop" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-## nllookup - Name Local Lookup
+## Names Local Lookup
 ### Resolve names/IPs using OS resolving routines (do not make direct requests to DNS)
 
 `Nslookup`, `host` and `dig` are commonly used to request DNS about a host or an IP-address, but sometimes it is good

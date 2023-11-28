@@ -2,7 +2,7 @@
 
 """
 ------------------------------------------------------------------------------------------------------------------------
-nllookup.py - Name Local Lookup - resolve names/IPs using OS resolving routines (do not make direct requests to DNS)
+nllookup.py - Names Local Lookup - resolve names/IPs using OS resolving routines (do not make direct requests to DNS)
 ------------------------------------------------------------------------------------------------------------------------
 
 Copyright (c) 2023 Mikhail Zakharov <zmey20000@yahoo.com>
